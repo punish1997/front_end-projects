@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(113, 183, 245);
+}
+
+.box1{
+    height: 70px;
+    width: 100%;
+    margin: 0px;
+    border: solid black;
+    background-color: rgb(238, 232, 234);
+
+}
+.box2{
+    height: 70px;
+    width: 100%;
+    margin: 0px;
+    border: solid black;
+    background-color: rgb(253, 249, 251);
+}
+.box3{
+    height: 150px;
+    width: 100%;
+    /* margin: 0px; */
+    border: solid black;
+    background-color: rgb(253, 249, 251);
+    display: inline-block;
+}
+.box4{
+    height: 148px;
+    width: 20%;
+    border: solid black;
+    background-color: rgb(253, 249, 251);
+    display: inline-block;
+   
+}
+.box5{
+    height: 148px;
+    width: 77%;
+    border: solid black;
+    background-color: rgb(206, 194, 200);
+    display: inline-block;
+
+}
+.box6{
+    height: 148px;
+    width: 100%;
+    border: solid black;
+    background-color: rgb(161, 148, 155);
+    display: inline-block;
+
+}

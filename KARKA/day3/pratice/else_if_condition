@@ -1,0 +1,19 @@
+let level = 30
+if(level>=35){
+    console.log("pass level 1")
+}
+else if(level>50){
+    console.log("pass level 2")
+}
+else if(level>60){
+    console.log("pass level 3")
+}
+else if(level>75){
+    console.log("pass level 3")
+}
+else if(level>90){ 
+    console.log("pass level 4")
+}
+else{ 
+    console.log("fail")
+}

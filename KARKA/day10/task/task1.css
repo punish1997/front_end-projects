@@ -1,0 +1,149 @@
+body{
+    background-color: rgb(209, 209, 250);
+}
+.bloom{
+    height: 80px;
+    width: 100%;
+    color: aliceblue;
+    background-color: rgb(21, 20, 21);
+    display: inline-block;
+}
+.home{
+    height: 30px;
+    width: 30%;
+    margin-left: 780px;
+    color: rgb(247, 248, 249);
+    display: inline-block;
+
+}
+p{
+    display: inline-block;
+    font-size: 30px;
+    margin-left: 100px;
+
+}
+li{
+    display: inline-block;
+    padding: 5px;
+    margin-top: 0px;
+    /* box-sizing: content-box; */
+}
+.frame{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(218, 215, 218);
+    display: inline-block;
+}
+.box1{
+    height: 250px;
+    width: 45%;
+    background-color: rgb(218, 215, 218);
+    margin-left:100px;
+    margin-top: 20px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+input{
+    color: aliceblue;
+    background-color: darkorange;
+    border: 0;
+}
+.box2{
+    height: 220px;
+    width: 35%;
+    background-color: rgb(128, 115, 128);
+    display: inline-block;
+    margin-top: 38px;
+    margin-left: 94px;
+}
+.img{
+    height: 220px;
+    width: 100%;
+}
+.frame1{
+    height: 440px;
+    width: 100%;
+    background-color: rgb(218, 215, 218);
+    display: inline-block;
+}
+.box3{
+    height: 290px;
+    width: 25%;
+    margin-left: 95px;
+    margin-top: 30px;
+    display: inline-block;
+}
+.box4{
+    height: 150px;
+    width: 100%;
+    display: inline-block;
+}
+h2{
+    margin-left: 100px;
+}
+.img1{
+    height: 150px;
+    width: 100%;
+}
+.box5{
+    height: 290px;
+    width: 25%;
+    margin-left: 80px;
+    margin-top: 30px;
+    background-color: rgb(218, 215, 218);
+    display: inline-block;
+    vertical-align: top;
+}
+.box6{
+    height: 150px;
+    width: 100%;
+    display: inline-block;
+}
+.img2{
+    height: 150px;
+    width: 100%;
+}
+.box7{
+    height: 290px;
+    width: 25%;
+    margin-left: 90px;
+    margin-top: 30px;
+    background-color: rgb(218, 215, 218);
+    display: inline-block;
+    vertical-align: top;
+}
+.box8{
+    height: 150px;
+    width: 100%;
+    display: inline-block;
+}
+.img3{
+    height: 150px;
+    width: 100%;
+}
+.frame2{
+    height: 350px;
+    width: 100%;
+    background-color: rgb(15, 14, 15);
+    display: inline-block;
+}
+.box9{
+    height: 290px;
+    width: 25%;
+    margin-left: 95px;
+    margin-top: 30px;
+    background-color: aliceblue;
+    display: inline-block;
+}
+.photo1{
+    height: 50px;
+    width: 100%;
+    border-radius: 10px;
+    background-color: rgb(49, 67, 83);
+    display: inline-block;
+}
+.img4{
+    height: 50px;
+    width: 20%;
+}

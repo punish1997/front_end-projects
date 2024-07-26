@@ -1,0 +1,7 @@
+console.log("Punish")
+console.log(27)
+console.log(22/12/1997)
+console.log("Bethlahem institute of Engg")
+console.log(2019)
+console.log(7598107531)
+console.log("Thickanamcode")

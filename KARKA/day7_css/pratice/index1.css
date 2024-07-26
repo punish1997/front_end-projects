@@ -1,0 +1,30 @@
+.box{
+    height: 300px;
+    width: 100%;
+    margin: 15px;
+    border: solid rgb(21, 147, 21);
+    background-color: rgb(93, 16, 135);
+    padding: 20px;
+    display: inline-block;
+}
+.box1{
+    height: 225px;
+    width: 30%;
+    border: 2px;
+    background-color: rgb(251, 248, 243);
+    display: inline-block;
+}
+.box2{
+    height: 225px;
+    width: 30%;
+    border: 2px;
+    background-color: rgb(246, 244, 241);
+    display: inline-block;
+}
+.box3{
+    height: 225px;
+    width: 30%;
+    border: 2px;
+    background-color: rgb(230, 228, 225);
+    display: inline-block;
+}

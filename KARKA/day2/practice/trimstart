@@ -1,0 +1,4 @@
+let a = "          hello               " 
+let start =a.trimstart()
+console.log(start.length)
+console.log(a)

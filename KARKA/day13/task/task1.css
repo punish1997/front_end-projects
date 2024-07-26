@@ -1,0 +1,43 @@
+.parent{
+    height: 300px;
+    width: 100%;
+    border: solid;
+    background-color: aliceblue;
+    display: flex;
+}
+.child1{
+    height: 300px;
+    width: 33%;
+    border: solid;
+    background-color: rgb(33, 119, 195);
+    display: flex;
+    flex: 2;
+}
+.box1{
+    height: 300px;
+    /* width: 33%; */
+    border: solid;
+    background-color: rgb(162, 171, 179);
+    flex: 4;
+}
+.box2{
+    height: 300px;
+    /* width: 33%; */
+    border: solid;
+    background-color: rgb(31, 95, 61);
+    flex: 3;
+}
+.child2{
+    height: 300px;
+    width: 33%;
+    border: solid;
+    background-color: rgb(64, 191, 93);
+    flex: 3;
+}
+.child3{
+    height: 300px;
+    width: 33%;
+    border: solid;
+    background-color: rgb(229, 48, 141);
+    flex: 3;
+}

@@ -1,0 +1,24 @@
+// if(false)
+// {
+// console.log("its true")
+// }
+
+
+
+// var rain = true
+// if(rain)
+// {
+//     console.log("take an umberlla")
+// }
+// else{ 
+//     console.log("enjoy the sunshine")
+// } 
+
+
+var colour = "green"
+
+if(colour == "red")
+{
+    console.log("stop")
+}
+if(colour == "")

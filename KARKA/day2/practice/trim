@@ -1,0 +1,7 @@
+let a = "          hello               " 
+console.log(a.length)
+let b=a.trim()
+console.log(b.length)
+console.log(a)
+
+

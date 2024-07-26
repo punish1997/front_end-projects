@@ -1,0 +1,78 @@
+.box{
+    height: 300px;
+    width: 1000px;
+    border: solid;
+    border-color: rgb(19, 19, 19);
+    margin: 200px;
+    position: relative;
+    bottom: 150px;
+}
+.img{
+    height: 300px;
+    width: 1000px;
+}
+.circle{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(232, 234, 239);
+    margin: 0px;
+    border: solid;
+    border-radius: 50%;
+    position: absolute;
+    left: 190px;
+    top: 250px;
+}
+.date{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    font-size: large;
+}
+.month{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+.year{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+.circle1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(232, 234, 239);
+    border-radius: 50%;
+    position: absolute;
+    border: solid;
+    left: 950px;
+    top: 250px;
+}
+.date1{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    font-size: large;
+}
+.month1{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+.year1{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+.lorem{
+    position: relative;
+    left: 380px;
+    bottom: -60px;
+}
+.lorem2{
+    position: relative;
+    left: 30px;
+    bottom: -60px;
+    display: flex;
+    justify-content: center;
+}

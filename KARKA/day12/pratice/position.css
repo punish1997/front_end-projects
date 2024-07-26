@@ -1,0 +1,34 @@
+.position{
+    background-color: aliceblue;
+}
+.box1{
+    height: 400px;
+    width: 400px;
+    margin: 100px;
+    border: solid;
+    background-color: rgb(230, 190, 138);
+    position: relative;
+    /* left: 50px; */
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    border: solid;
+    background-color: rgb(149, 96, 28);
+    position: absolute;
+    left: 70px;
+
+    /* top: 30px;
+    margin-top: 10px; */
+    z-index: 5;
+}
+/* .box3{
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    border: solid;
+    background-color: rgb(92, 189, 97);
+    position: relative;
+    z-index: 3;
+} */

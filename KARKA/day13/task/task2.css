@@ -1,0 +1,75 @@
+.frame{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(240, 243, 243);
+}
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(160, 168, 165);
+}
+.frame1{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(92, 107, 112);
+    display: flex;
+}
+.box1{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(140, 85, 179);
+}
+.box2{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(130, 57, 240);
+}
+.frame2{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(116, 130, 125);
+    display: flex;
+}
+.box3{
+    height: 300px;
+    width: 25%;
+    background-color: rgb(209, 108, 177);
+}
+.box4{
+    height: 300px;
+    width: 25%;
+    background-color: rgb(129, 215, 169);
+}
+.box5{
+    height: 300px;
+    width: 25%;
+    background-color: rgb(229, 141, 82);
+}
+.box6{
+    height: 300px;
+    width: 25%;
+    background-color: rgb(211, 238, 113);
+}
+.box7{
+    height: 150px;
+    background-color: blue;
+
+}
+.box8{
+    height: 150px;
+    background-color: rgb(232, 15, 149);
+
+}
+.img{
+    height: 200px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.img1{
+    height: 200px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+
+}

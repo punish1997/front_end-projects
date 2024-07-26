@@ -1,0 +1,3 @@
+let cars =["benz","bmw","audi","swift"]
+cars.unshift("audi","swift")
+console.log(cars)

@@ -1,0 +1,80 @@
+.box{
+    height: 300px;
+    width: 300px;
+    margin: 150px;
+    background-color: rgb(232, 49, 189);
+    border-radius: 0px 50px;
+    position: relative;
+    overflow: hidden;
+
+}
+.circle1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(248, 248, 250);
+    margin: 0px;
+    border-radius: 50%;
+    position: absolute;
+    right: 250px;
+    bottom: 250px;
+}
+.circle2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(251, 251, 252);
+    border-radius: 50%;
+    position: absolute;
+    left: 240px;
+    top: 230px;
+  
+}
+.circle3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(254, 253, 253);
+    border-radius: 50%;
+    position: absolute;
+    transform: rotate();
+    left: 80px;
+    top: 250px;
+}
+.square{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(254, 254, 252);
+    position: absolute;
+    transform: rotate(45deg);
+    top: 100px;
+    right: 275px;
+}
+.square1{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(251, 250, 252);
+    position: absolute;
+    transform: rotate(45deg);
+    top: 100px;
+    left: 275px;
+}
+.square2{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(245, 243, 243);
+    position: absolute;
+    transform: rotate(45deg);
+    bottom: 270px;
+    left: 110px;
+}
+.box{
+  animation: mymove 5s infinite;
+}
+@keyframes mymove {
+    0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
+    
+    50% {transform: rotate(180deg);
+  }
+}

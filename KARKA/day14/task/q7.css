@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.frame{
+    height: 700px;
+    width: 90%;
+    margin: 60px;
+    border: solid;
+    background-color: rgb(253, 252, 252);
+}
+.header{
+    height: 150px;
+    width: 100%;
+    color: rgb(20, 21, 21);
+    text-align: center;
+    background-color: rgb(238, 127, 236);
+}
+.navigationbar{
+    height: 100px;
+    text-align: center;
+    width: 100%;
+    color: rgb(246, 248, 249);
+    background-color: rgb(172, 31, 183);
+}
+.maincontent{
+    height: 300px;
+    text-align: center;
+    width: 100%;
+    color: rgb(6, 13, 19);
+    background-color: rgb(252, 251, 253);
+}
+.footer{
+    height: 150px;
+    width: 100%;
+    color: rgb(19, 20, 21);
+    text-align: center;
+    background-color: rgb(235, 160, 234);
+}

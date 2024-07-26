@@ -1,0 +1,3 @@
+let a="punish"
+console.log(a.uppercase)
+console.log(a)

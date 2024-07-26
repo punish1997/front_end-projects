@@ -1,0 +1,40 @@
+.frame{
+    height: 610px;
+    width: 92%;
+    margin: 60px;
+    background-color: rgb(226, 51, 11);
+}
+.header{
+    height: 80px;
+    width: 100%;
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(247, 158, 42);
+}
+.box{
+    height: 470px;
+    width: 100%;
+    background-color: aliceblue;
+    display: flex;
+}
+.box1{
+    height: 470px;
+    width: 20%;
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(68, 44, 224);
+}
+.box2{
+    height: 470px;
+    width: 80%;
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(12, 135, 12);
+}
+.footer{
+    height: 40px;
+    width: 100%;
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(226, 51, 11);
+}

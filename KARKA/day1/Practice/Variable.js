@@ -1,0 +1,16 @@
+let name = ("punish")
+let age = (27)
+let dob = (22_12_1997)
+let clg = ("bethlahem Institute of Engg")
+let yop = (2019)
+let mob = (7598107531)
+let pla = ("thickanamcode")
+console.log("name")
+console.log(age)
+console.log(dob)
+console.log("clg")
+console.log(yop)
+console.log(mob)
+console.log("pla")
+
+

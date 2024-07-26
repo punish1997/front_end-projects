@@ -1,0 +1,46 @@
+.switchbar{
+    height: 80px;
+    border: solid;
+    border-color: rgb(19, 19, 19);
+    position: relative;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+}
+.box{
+    height: 77px;
+    width: 700px;
+    border: solid;
+    border-color: rgb(19, 19, 19);
+    position: absolute;
+    background-color: aquamarine;
+    display: flex;
+
+}
+.box1{
+    height: 75px;
+    width: 300px;
+    border: solid;
+    border-color: rgb(22, 18, 18);
+    position: absolute;
+    font-size: 40px;
+    background-color: rgb(23, 23, 22);
+}
+.colorlib{
+    margin-top: 2px;
+    color: aliceblue;
+    text-align: center;
+}
+.box2{
+    height: 75px;
+    width: 390px;
+    border: solid;
+    border-color: rgb(19, 19, 19);
+    position: absolute;
+    left: 305px;
+    background-color: blueviolet;
+}
+.pub{
+    color: aliceblue;
+    margin-left: 10px;
+}
+

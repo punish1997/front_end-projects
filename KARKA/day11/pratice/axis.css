@@ -1,0 +1,9 @@
+.box{
+    background-color: rgb(253, 250, 248);
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    width: 100px;
+    justify-content: space-evenly;
+}
+

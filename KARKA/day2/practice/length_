@@ -1,0 +1,3 @@
+let a="punish"
+console.log(a.length)
+console.log(a)

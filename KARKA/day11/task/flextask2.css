@@ -1,0 +1,8 @@
+.box1{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(112, 209, 231);
+    padding: 10px;
+    justify-content: center;
+    flex-direction: column;
+}

@@ -1,0 +1,56 @@
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(130, 96, 222);
+    text-align: center;
+
+}
+.nav{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(65, 204, 120);
+    text-align: center;
+}
+.frame{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(251, 252, 253);
+    display: flex;
+}
+.main{
+    height: 380px;
+    width: 50%;
+    margin-top: 20px;
+    margin-right: 20px;
+    background-color: aqua;
+    text-align: center;
+}
+.box{
+    height: 400px;
+    width: 50%;
+    background-color: rgb(254, 255, 253);
+}
+.box1{
+    height: 180px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(155, 149, 235);
+}
+.box2{
+    height: 180px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(228, 93, 104);
+}
+.aside{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(58, 186, 73);
+    text-align: center;
+}
+.footer{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(193, 195, 56);
+    text-align: center;
+}

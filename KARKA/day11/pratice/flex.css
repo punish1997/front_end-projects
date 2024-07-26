@@ -1,0 +1,29 @@
+.box{
+    background-color: antiquewhite;
+    display: flex;
+    width: 100px;
+    flex-wrap: wrap;
+}
+h1{
+    background-color: rgb(119, 145, 167);
+    margin: 2px;
+    padding: 5px;
+    color: rgb(49, 48, 46);
+}
+.box{
+    height: 100px;
+    background-color: rgb(204, 67, 101);
+    display: flex;
+}
+.box1{
+    background-color: rgb(84, 30, 43);
+    flex: 1;
+}
+.box2{
+    background-color: rgb(168, 21, 58);
+    flex: 1;
+}
+.box3{
+    background-color: rgb(101, 222, 165);
+    flex: 1;
+}

@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mainframe{
+    height: 900px;
+    width: 90%;
+    margin: 70px;
+    background-color: rgb(215, 238, 250);
+}
+.header{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(118, 204, 224);
+}
+.container{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(215, 238, 250);
+    display: flex;
+}
+.introcopy{
+    height: 370px;
+    width: 60%;
+    text-align: center;
+    margin: 15px;
+    background-color: rgb(118, 204, 224);
+}
+.box{
+    height: 398px;
+    width: 50%;
+    background-color: rgb(215, 238, 250);
+}
+.heroimage{
+    height: 254px;
+    width: 97%;
+    margin-top: 15px;
+    text-align: center;
+    background-color: rgb(118, 204, 224);
+}
+.calltoaction{
+    height: 100px;
+    width: 97%;
+    margin-top: 15px;
+    text-align: center;
+    background-color: rgb(219, 219, 22);
+}
+.features{
+    height: 150px;
+    width: 97.5%;
+    margin-left: 15px;
+    text-align: center;
+    background-color: rgb(118, 204, 224);
+}
+.frame{
+    height: 150px;
+    width: 97.5%;
+    margin: 15px;
+    background-color: rgb(215, 238, 250);
+    display: flex;
+}
+.box1{
+    height: 150px;
+    width: 60%;
+    text-align: center;
+    background-color: rgb(118, 204, 224);
+}
+.box2{
+    height: 150px;
+    width: 40%;
+    text-align: center;
+    margin-left: 15px;
+    background-color: rgb(219, 219, 22);
+}
+.footer{
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(118, 204, 224);
+}
